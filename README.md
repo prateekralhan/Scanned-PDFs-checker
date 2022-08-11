@@ -1,7 +1,9 @@
 # 📑📝 Scanned PDFs checker 📄👨‍💻 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A minimalistic streamlit based webapp to detect and identify scanned/digitally created PDFs from a large corpus. Want to OCR the scanned docs? Don't worry we have that covered here as well :wink:
 
-![Uploading demo.gif…]()
+### Live Web-App can be found [here.](https://scanned-pdfs-checker.herokuapp.com/)
+
+![demo](https://user-images.githubusercontent.com/29462447/184208229-e1641d8c-0a77-486e-9c5e-b42784b033e1.gif)
 
 
 ## Installation:
