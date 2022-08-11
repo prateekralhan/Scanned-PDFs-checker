@@ -1,6 +1,9 @@
 # 📑📝 Scanned PDFs checker 📄👨‍💻 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A minimalistic streamlit based webapp to detect and identify scanned/digitally created PDFs from a large corpus. Want to OCR the scanned docs? Don't worry we have that covered here as well :wink:
 
+![Uploading demo.gif…]()
+
+
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the necessary dependencies.
 
